@@ -161,7 +161,7 @@ export const Player = ({
                 </div>
 
                 <div>
-                    <label>Audio Volume</label>
+                    <label>Audio V olume</label>
                     <input
                         type="range"
                         min="0"
